@@ -1,0 +1,4 @@
+import IISKandidaty_na_rabotu_v_organizaciyuОрганизацияEController from '../i-i-s-kandidaty-na-rabotu-v-organizaciyu-организация-e';
+
+var IISKandidaty_na_rabotu_v_organizaciyuОрганизацияENewController = IISKandidaty_na_rabotu_v_organizaciyuОрганизацияEController;
+export default IISKandidaty_na_rabotu_v_organizaciyuОрганизацияENewController;

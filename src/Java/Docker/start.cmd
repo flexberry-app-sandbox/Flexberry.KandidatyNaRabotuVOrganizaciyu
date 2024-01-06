@@ -1,0 +1,1 @@
+docker-compose -p kandidaty_na_rabotu_v_organizaciyu-java up -d

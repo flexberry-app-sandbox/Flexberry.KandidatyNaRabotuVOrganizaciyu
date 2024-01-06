@@ -1,0 +1,4 @@
+import IISKandidaty_na_rabotu_v_organizaciyuСотрудEController from '../i-i-s-kandidaty-na-rabotu-v-organizaciyu-сотруд-e';
+
+var IISKandidaty_na_rabotu_v_organizaciyuСотрудENewController = IISKandidaty_na_rabotu_v_organizaciyuСотрудEController;
+export default IISKandidaty_na_rabotu_v_organizaciyuСотрудENewController;

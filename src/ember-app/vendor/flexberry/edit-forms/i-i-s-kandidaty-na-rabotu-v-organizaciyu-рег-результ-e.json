@@ -1,0 +1,39 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "ПланирСобес",
+      "projection": "ПланирСобесL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Организация",
+      "projection": "ОрганизацияL",
+      "detailModelName": null
+    },
+    {
+      "master": "сотрудники",
+      "displayAttributeName": "фИОСотр",
+      "required": true,
+      "relationName": "ТЧРегРезульт.Сотрудники",
+      "projection": "СотрудникиL",
+      "detailModelName": "i-i-s-kandidaty-na-rabotu-v-organizaciyu-т-ч-рег-результ"
+    }
+  ],
+  "external": false,
+  "caption": "Рег результ",
+  "name": "IISKandidaty_na_rabotu_v_organizaciyuРегРезультE",
+  "className": "РегРезультE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kandidaty-na-rabotu-v-organizaciyu-рег-результ",
+      "modelProjection": "РегРезультE"
+    }
+  ]
+}

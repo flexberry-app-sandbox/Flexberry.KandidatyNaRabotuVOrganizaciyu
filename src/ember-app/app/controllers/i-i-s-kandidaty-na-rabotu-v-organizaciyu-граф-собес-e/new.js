@@ -1,0 +1,4 @@
+import IISKandidaty_na_rabotu_v_organizaciyuГрафСобесEController from '../i-i-s-kandidaty-na-rabotu-v-organizaciyu-граф-собес-e';
+
+var IISKandidaty_na_rabotu_v_organizaciyuГрафСобесENewController = IISKandidaty_na_rabotu_v_organizaciyuГрафСобесEController;
+export default IISKandidaty_na_rabotu_v_organizaciyuГрафСобесENewController;

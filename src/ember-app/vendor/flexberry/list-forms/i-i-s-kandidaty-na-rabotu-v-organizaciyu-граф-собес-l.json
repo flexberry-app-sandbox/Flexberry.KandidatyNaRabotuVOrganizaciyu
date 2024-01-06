@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kandidaty-na-rabotu-v-organizaciyu-граф-собес-e",
+  "editForm": "i-i-s-kandidaty-na-rabotu-v-organizaciyu-граф-собес-e",
+  "external": false,
+  "caption": "Граф собес",
+  "name": "IISKandidaty_na_rabotu_v_organizaciyuГрафСобесL",
+  "className": "ГрафСобесL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kandidaty-na-rabotu-v-organizaciyu-граф-собес",
+      "modelProjection": "ГрафСобесL"
+    }
+  ]
+}

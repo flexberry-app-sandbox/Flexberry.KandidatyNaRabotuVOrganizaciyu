@@ -1,0 +1,9 @@
+﻿{
+  "nameSpace": "IIS.Kandidaty_na_rabotu_v_organizaciyu",
+  "className": "ИтогСобесед",
+  "enumObjects": {
+    "ПриглНаРаб": "ПриглНаРаб",
+    "ОтклонКандид": "ОтклонКандид",
+    "НаРассмотр": "НаРассмотр"
+  }
+}

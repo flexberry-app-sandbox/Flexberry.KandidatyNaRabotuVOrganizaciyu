@@ -1,0 +1,4 @@
+import IISKandidaty_na_rabotu_v_organizaciyuВакантДолжнEController from '../i-i-s-kandidaty-na-rabotu-v-organizaciyu-вакант-должн-e';
+
+var IISKandidaty_na_rabotu_v_organizaciyuВакантДолжнENewController = IISKandidaty_na_rabotu_v_organizaciyuВакантДолжнEController;
+export default IISKandidaty_na_rabotu_v_organizaciyuВакантДолжнENewController;

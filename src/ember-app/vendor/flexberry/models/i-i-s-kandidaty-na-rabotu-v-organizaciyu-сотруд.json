@@ -1,0 +1,30 @@
+﻿{
+  "name": "IISKandidaty_na_rabotu_v_organizaciyuСотруд",
+  "modelName": "i-i-s-kandidaty-na-rabotu-v-organizaciyu-сотруд",
+  "className": "Сотруд",
+  "nameSpace": "IIS.Kandidaty_na_rabotu_v_organizaciyu",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "СотрудE",
+      "modelName": "i-i-s-kandidaty-na-rabotu-v-organizaciyu-сотруд",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "СотрудL",
+      "modelName": "i-i-s-kandidaty-na-rabotu-v-organizaciyu-сотруд",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
